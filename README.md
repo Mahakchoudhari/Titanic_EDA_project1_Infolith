@@ -35,17 +35,17 @@ Women and higher-class passengers had significantly higher survival rates. Third
 ## How to Run
 
 1. Clone the repository
-
-git clone <your-repository-link>
-
+`
+git clone https://github.com/Mahakchoudhari/Titanic_EDA_project1_Infolith.git
+`
 2. Install dependencies
-
+`
 pip install -r requirements.txt
-
+`
 3. Open Jupyter Notebook
-
+`
 jupyter notebook
-
+`
 4. Run all cells from top to bottom.
 
 #Author
