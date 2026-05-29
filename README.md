@@ -15,23 +15,6 @@ Understand which factors influenced passenger survival on the Titanic.
 - Seaborn
 - Jupyter Notebook
 
-## Project Structure
-
-titanic-eda/
-
-├── data/
-
-│ └── train.csv
-
-├── notebook/
-
-│ └── titanic_eda.ipynb
-
-├── requirements.txt
-
-├── README.md
-
-└── .gitignore
 
 ## Key Analysis
 
